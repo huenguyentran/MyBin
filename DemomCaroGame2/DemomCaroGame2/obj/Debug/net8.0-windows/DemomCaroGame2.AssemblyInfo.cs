@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemomCaroGame2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f06eda3e674568d34791a9a51f318db0b7cb4a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemomCaroGame2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemomCaroGame2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

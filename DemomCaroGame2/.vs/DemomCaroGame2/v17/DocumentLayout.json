@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\",
+  "WorkspaceRootPath": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\demomcarogame2\\demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\carogame\\demomcarogame2\\demomcarogame2\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\demomcarogame2\\demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\carogame\\demomcarogame2\\demomcarogame2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\demomcarogame2\\demomcarogame2\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|d:\\uit\\ki_3\\lttq\\c#\\carogame\\demomcarogame2\\demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\demomcarogame2\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D51AC573-6386-4605-984C-4A5CC0780AAD}|DemomCaroGame2\\DemomCaroGame2.csproj|solutionrelative:demomcarogame2\\cons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,37 +46,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Player.cs",
+              "RelativeDocumentMoniker": "DemomCaroGame2\\Player.cs",
+              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Player.cs",
+              "RelativeToolTip": "DemomCaroGame2\\Player.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T02:31:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "DemomCaroGame2\\ChessBoardManager.cs",
+              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\ChessBoardManager.cs",
+              "RelativeToolTip": "DemomCaroGame2\\ChessBoardManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:59:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cons.cs",
-              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Cons.cs",
+              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Cons.cs",
               "RelativeDocumentMoniker": "DemomCaroGame2\\Cons.cs",
-              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Cons.cs",
+              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Cons.cs",
               "RelativeToolTip": "DemomCaroGame2\\Cons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:37:10.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
+              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
               "RelativeDocumentMoniker": "DemomCaroGame2\\Form1.cs",
-              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
+              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
               "RelativeToolTip": "DemomCaroGame2\\Form1.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAUwC8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:34:13.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
+              "DocumentMoniker": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs",
               "RelativeDocumentMoniker": "DemomCaroGame2\\Form1.cs",
-              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs [Design]",
+              "ToolTip": "D:\\uit\\KI_3\\LTTQ\\C#\\CaroGame\\DemomCaroGame2\\DemomCaroGame2\\Form1.cs [Design]",
               "RelativeToolTip": "DemomCaroGame2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T09:32:32.513Z",
